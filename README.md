@@ -15,9 +15,11 @@ Of course, if anyone find an 100% solution, I will be gratefully to hear about i
 There are two versions:
 
 Final = For exactly same system with theme, modded USB3 and LAN kexts
+
 (The OpenShell and Clear NVRAM tools are hidden under spacebar)
 
 Debug = For experiments on similar systems with detailed debug info and original clear kexts
+
 (You will probably need to generate your own ACPI SSDTs)
 
 
