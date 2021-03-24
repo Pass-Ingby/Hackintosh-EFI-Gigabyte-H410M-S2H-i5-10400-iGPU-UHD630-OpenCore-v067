@@ -1,3 +1,5 @@
+Tested with Big Sur but probably will work with Catalina as well.
+
 I am not a specialist and I spend a lot of time to make my system work.
 
 In my opinion, I assume that it is a very common low budget hardware combination.
