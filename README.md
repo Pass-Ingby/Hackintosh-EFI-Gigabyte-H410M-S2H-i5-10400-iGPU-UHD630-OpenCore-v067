@@ -51,7 +51,7 @@ M2: ADATA NVMe 256GB
 16. Boot -> Windows 10 Features = Other OS
 
 * There is no need to disable VT-d
-** You can enable Above 4G Decoding if you want
+* You can enable Above 4G Decoding if you want
 
 
 =============================== EXTRA DETAILS ===============================
