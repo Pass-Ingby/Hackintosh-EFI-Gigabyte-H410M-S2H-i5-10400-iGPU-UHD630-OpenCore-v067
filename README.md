@@ -21,7 +21,7 @@ Debug = For experiments on similar systems with detailed debug info and original
 (You will probably need to generate your own ACPI SSDTs)
 
 
-=============================== SYSTEM SPECIFICATIONS  ===============================
+=============== SYSTEM SPECIFICATIONS  ===============
 
 Motherboard: Gigabyte H410M-S2H
 
@@ -34,7 +34,7 @@ RAM: HyperX 16GB (2666MHz)
 M2: ADATA NVMe 256GB
 
 
-=============================== ESSENTIAL BIOS SETTING ===============================
+=============== ESSENTIAL BIOS SETTING ===============
 
 0. Load Optimized Defaults (Save & Exit)
 1. Favorites -> Extreme Memory Profile (XMP) = Enabled or Profile1 (if RAM is above 2400MHz)
@@ -59,7 +59,7 @@ M2: ADATA NVMe 256GB
 * You can enable Above 4G Decoding if you want
 
 
-=============================== EXTRA DETAILS ===============================
+=============== EXTRA DETAILS ===============
 
 1. Due to security reasons Apple does not allow non certificated extensions to get installed.
    So, I have put NVRAM/Add/7C436110-AB2A-4BBB-A880-FE41995C9F82/csr-active-config = 03000000.
