@@ -24,9 +24,13 @@ Debug = For experiments on similar systems with detailed debug info and original
 =============================== SYSTEM SPECIFICATIONS  ===============================
 
 Motherboard: Gigabyte H410M-S2H
+
 CPU: Intel i5-10400
+
 GPU: Intel UHD630 (internal)
+
 RAM: HyperX 16GB (2666MHz)
+
 M2: ADATA NVMe 256GB
 
 
@@ -51,6 +55,7 @@ M2: ADATA NVMe 256GB
 16. Boot -> Windows 10 Features = Other OS
 
 * There is no need to disable VT-d
+ 
 * You can enable Above 4G Decoding if you want
 
 
