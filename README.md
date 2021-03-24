@@ -21,6 +21,7 @@ Debug = For experiments on similar systems with detailed debug info and original
 (You will probably need to generate your own ACPI SSDTs)
 
 
+
 =============== SYSTEM SPECIFICATIONS  ===============
 
 Motherboard: Gigabyte H410M-S2H
@@ -32,6 +33,7 @@ GPU: Intel UHD630 (internal)
 RAM: HyperX 16GB (2666MHz)
 
 M2: ADATA NVMe 256GB
+
 
 
 =============== ESSENTIAL BIOS SETTING ===============
@@ -57,6 +59,7 @@ M2: ADATA NVMe 256GB
 * There is no need to disable VT-d
  
 * You can enable Above 4G Decoding if you want
+
 
 
 =============== EXTRA DETAILS ===============
