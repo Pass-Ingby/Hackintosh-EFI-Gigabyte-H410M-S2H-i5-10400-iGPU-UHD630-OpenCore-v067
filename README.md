@@ -1,6 +1,6 @@
 I am not a specialist and I spend a lot of time to make my system work.
 
-In my opinion, I assume that it is a very common low budget combination.
+In my opinion, I assume that it is a very common low budget hardware combination.
 
 So, I am placing here my files to save you some time.
 
