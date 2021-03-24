@@ -38,7 +38,7 @@ M2: ADATA NVMe 256GB
 
 
 
-=============== ESSENTIAL BIOS SETTING ===============
+=============== ESSENTIAL BIOS SETTINGS ===============
 
 0. Load Optimized Defaults (Save & Exit)
 1. Favorites -> Extreme Memory Profile (XMP) = Enabled or Profile1 (if RAM is above 2400MHz)
