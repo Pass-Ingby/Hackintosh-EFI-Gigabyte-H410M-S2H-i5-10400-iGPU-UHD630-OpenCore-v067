@@ -25,7 +25,6 @@ Debug = For experiments on similar systems with detailed debug info and original
 (You will probably need to generate your own ACPI SSDTs)
 
 
-
 =============== SYSTEM SPECIFICATIONS  ===============
 
 Motherboard: Gigabyte H410M-S2H
@@ -37,7 +36,6 @@ GPU: Intel UHD630 (internal)
 RAM: HyperX 16GB (2666MHz)
 
 M2: ADATA NVMe 256GB
-
 
 
 =============== ESSENTIAL BIOS SETTINGS ===============
@@ -65,7 +63,6 @@ M2: ADATA NVMe 256GB
 * You can enable Above 4G Decoding if you want
 
 
-
 =============== EXTRA DETAILS ===============
 
 1. Due to security reasons Apple does not allow non certificated extensions to get installed.
@@ -73,3 +70,10 @@ M2: ADATA NVMe 256GB
    You can change it to 00000000 if you facing updating problems.
 
 2. If you experience boot loop after partition scheme modification consider of changing the SecureBoot flags (not tested).
+
+
+=============== HELP ME AND OTHERS ===============
+
+If you have any success to other systems with those EFI folders please mention it on Issues section among with the tweaks you have made.
+
+Thank you.
